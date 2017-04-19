@@ -4,3 +4,5 @@ A KiCAD library for hybrid Cherry MX and Alps footprints that supports PCB mount
 
 Checkout [this tutorial](http://www.accelerated-designs.com/help/KiCad_Library.html)
 if you are unfamiliar with importing KiCAD libraries.
+
+If you come across any issues please don't hesitate to report them. Contributions are encouraged!
